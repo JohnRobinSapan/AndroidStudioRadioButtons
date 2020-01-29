@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RadioButtons</string>
+    <string name="radio1">Orange</string>
+    <string name="radio2">Pear</string>
+    <string name="radio3">Apple</string>
+    <string name="textView">Select an option!</string>
+</resources>
